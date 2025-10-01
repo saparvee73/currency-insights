@@ -39,7 +39,7 @@ This project was built to demonstrate backend engineering skills:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/currency-insights.git
+git clone https://github.com/saparvee73/currency-insights.git
 cd currency-insights
 ```
 
