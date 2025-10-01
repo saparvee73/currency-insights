@@ -1,0 +1,7 @@
+/Users/saparvee/IdeaProjects/currency-insights/src/main/java/com/example/currencyinsights/CurrencyInsightsApplication.java
+/Users/saparvee/IdeaProjects/currency-insights/src/main/java/com/example/currencyinsights/controller/TransactionController.java
+/Users/saparvee/IdeaProjects/currency-insights/src/main/java/com/example/currencyinsights/model/Transaction.java
+/Users/saparvee/IdeaProjects/currency-insights/src/main/java/com/example/currencyinsights/model/TransactionAnalysis.java
+/Users/saparvee/IdeaProjects/currency-insights/src/main/java/com/example/currencyinsights/service/ExchangeRateProvider.java
+/Users/saparvee/IdeaProjects/currency-insights/src/main/java/com/example/currencyinsights/service/TransactionService.java
+/Users/saparvee/IdeaProjects/currency-insights/src/main/java/com/example/currencyinsights/service/WebClientExchangeRateProvider.java

@@ -1,0 +1,8 @@
+com/example/currencyinsights/controller/TransactionController.class
+com/example/currencyinsights/model/Transaction.class
+com/example/currencyinsights/model/TransactionAnalysis.class
+com/example/currencyinsights/CurrencyInsightsApplication.class
+com/example/currencyinsights/service/WebClientExchangeRateProvider$ExchangeRateResponse.class
+com/example/currencyinsights/service/TransactionService.class
+com/example/currencyinsights/service/WebClientExchangeRateProvider.class
+com/example/currencyinsights/service/ExchangeRateProvider.class
